@@ -14,13 +14,15 @@
 
 ## 🏆 GitHub Achievements
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-View%20My%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/Salunkhesmit)
+Explore my GitHub achievements and milestones.
+
+[**View GitHub Achievements →**](https://github.com/Salunkhesmit?tab=achievements)
 
 ## 📊 Contributions
 
 Explore my repositories, commits, and contributions directly on GitHub.
 
-[**View GitHub Contributions →**](https://github.com/Salunkhesmit)
+[**View GitHub Contributions →**](https://github.com/repos)
 
 ---
 
